@@ -1,16 +1,16 @@
-## Hi there 👋
+# Peiyang Jiang
 
-<!--
-**peiyangjiang/peiyangjiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at the University of Science and Technology of China (USTC).
 
-Here are some ideas to get you started:
+My current interests include machine learning, large language models, and AI agents. I'm currently building a stronger foundation in deep learning and gaining research experience through reproducible experiments and research-oriented projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Deep learning and PyTorch
+- Large language models and AI agents
+- Reproducible machine learning experiments
+- Reading and reproducing research papers
+
+## Projects
+
+I'm currently working on my first research-style machine learning project. More projects will be added as they become ready for release.
