@@ -1,5 +1,3 @@
-# Peiyang Jiang
-
 I'm an undergraduate student at the University of Science and Technology of China (USTC).
 
 My current interests include machine learning, large language models, and AI agents. I'm currently building a stronger foundation in deep learning and gaining research experience through reproducible experiments and research-oriented projects.
